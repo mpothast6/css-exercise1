@@ -1,0 +1,25 @@
+html{
+    background-color: #9678b2;
+}
+.title{
+      background-color: hsl(273, 76%, 47%);
+border-width: 4px;
+border-style: solid;
+border-color: hsl(310, 76%, 47%);
+padding: 30px;
+margin: 20px;
+}
+.page-title{
+    color:darkorange
+}
+.global-nav-color{
+   color: rgb(255, 0, 225);
+    background-color:rgb(243, 165, 250);
+}
+.local-nav-color{
+    color: rgb(255, 0, 225);
+    background-color: hsl(310, 43%, 65%);
+}
+.question-title{
+    color: rgb(0, 162, 255);
+}

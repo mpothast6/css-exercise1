@@ -1,2 +1,2 @@
-# css-exercise1
+# homework2-foods
 
